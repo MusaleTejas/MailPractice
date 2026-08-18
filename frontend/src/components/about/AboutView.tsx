@@ -115,21 +115,26 @@ export const AboutView: React.FC<AboutViewProps> = ({ onStartWriting }) => {
             <div>
               <div className="inline-flex items-center space-x-1.5 px-3 py-1 rounded-full bg-brand-500/10 text-brand-300 text-xs font-bold uppercase tracking-wider mb-2 border border-brand-500/20">
                 <Code className="w-3.5 h-3.5 text-brand-400" />
-                <span>Creator & Lead Engineer</span>
+                <span>Built by</span>
               </div>
               <h3 className="text-2xl sm:text-3xl font-black text-white tracking-tight">Tejas Musale</h3>
               <p className="text-sm font-semibold text-brand-400 mt-0.5">
-                Data Science Engineer | AI & Machine Learning Enthusiast
+                Data Science Engineer · AI & Machine Learning Enthusiast
               </p>
             </div>
 
-            <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
-              Tejas Musale engineered <strong>MailPractice</strong> to help students, developers, and professionals build genuine, commanding workplace communication skills through practical learning, deliberate practice, and real-world writing challenges.
-            </p>
-
-            <p className="text-xs text-slate-400 leading-relaxed">
-              With a background in Data Science, Machine Learning, and Software Engineering, Tejas designed the multi-dimensional evaluation engine to grade emails on actual workplace standards — including grammar precision, stakeholder routing (To/Cc/Bcc), conciseness, and executive decision-making.
-            </p>
+            <div className="p-5 rounded-2xl bg-slate-950/80 border border-slate-800 space-y-3">
+              <p className="text-xs sm:text-sm text-slate-300 leading-relaxed italic">
+                "I kept watching smart engineers struggle — not because they lacked ideas, but because they couldn't put those ideas into a clear email. Then I watched everyone start copy-pasting from ChatGPT instead of learning to write better. That felt like the wrong fix."
+              </p>
+              <p className="text-xs sm:text-sm text-slate-300 leading-relaxed italic">
+                "So I built the tool I wished existed: one that makes you write first, then shows you exactly where you went wrong. No shortcuts. Just practice."
+              </p>
+              <p className="text-xs sm:text-sm text-slate-300 leading-relaxed italic">
+                "If this helps even one person send a better email tomorrow, it was worth building."
+              </p>
+              <p className="text-xs text-brand-400 font-semibold pt-1">— Tejas</p>
+            </div>
 
             {/* Social & Action Links */}
             <div className="pt-2 flex flex-wrap items-center justify-center md:justify-start gap-3">
@@ -140,7 +145,7 @@ export const AboutView: React.FC<AboutViewProps> = ({ onStartWriting }) => {
                 className="inline-flex items-center space-x-2 px-5 py-2.5 rounded-xl bg-slate-800 hover:bg-slate-700 text-white text-xs font-bold border border-slate-700 shadow-md transition-all group"
               >
                 <GithubIcon className="w-4 h-4 text-slate-300 group-hover:text-white" />
-                <span>GitHub Profile @MusaleTejas</span>
+                <span>GitHub @MusaleTejas</span>
                 <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
               </a>
 
