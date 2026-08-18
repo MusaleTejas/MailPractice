@@ -19,7 +19,7 @@ import { LEARNING_LEVELS } from './data/learningPathData';
 import { Trophy, X } from 'lucide-react';
 
 export function App() {
-  const [activeTab, setActiveTab] = useState<'home' | 'learning' | 'practice' | 'dashboard' | 'tips' | 'about'>('learning');
+  const [activeTab, setActiveTab] = useState<'home' | 'learning' | 'practice' | 'dashboard' | 'tips' | 'about'>('home');
   const [selectedCategory, setSelectedCategory] = useState<EmailCategory | 'All'>('All');
   const [activeScenario, setActiveScenario] = useState<PracticeScenario | null>(null);
   const [activeStage, setActiveStage] = useState<LearningStage | null>(null);
