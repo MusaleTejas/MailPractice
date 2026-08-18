@@ -181,7 +181,7 @@ Open **http://localhost:5173** and start practicing.
 
 <div align="center">
 
-<img src="frontend/public/profile.jpg" width="120" height="120" style="border-radius: 50%; object-fit: cover;" alt="Tejas Musale" />
+
 
 ### **Tejas Musale**
 
