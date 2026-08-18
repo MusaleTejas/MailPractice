@@ -177,7 +177,7 @@ Open **http://localhost:5173** and start practicing.
 
 ---
 
-## 👤 About the Creator
+## 👤 Built by
 
 <div align="center">
 
@@ -192,11 +192,13 @@ Data Science Engineer · AI & ML Practitioner
 
 </div>
 
-Tejas noticed a pattern while working across data science and engineering teams: people who wrote clear, well-structured emails consistently moved projects forward faster — regardless of their technical seniority. Meanwhile, generative AI tools were making it easier than ever to *avoid* writing altogether.
-
-That gap became the thesis behind MailPractice. Rather than building another AI email generator, he designed a practice-first platform where the AI acts as a coach, not a ghostwriter. The multi-dimensional grading engine, the anti-cheat system, the progressive curriculum that gates advancement behind real performance — all of it exists to make sure users are actually learning, not just clicking buttons.
-
-The project is open-source because better workplace communication shouldn't be locked behind a paywall.
+> I kept watching smart engineers struggle — not because they lacked ideas, but because they couldn't put those ideas into a clear email. Then I watched everyone start copy-pasting from ChatGPT instead of learning to write better. That felt like the wrong fix.
+>
+> So I built the tool I wished existed: one that makes you write first, then shows you exactly where you went wrong. No shortcuts. Just practice.
+>
+> If this helps even one person send a better email tomorrow, it was worth building.
+>
+> — *Tejas*
 
 ---
 
