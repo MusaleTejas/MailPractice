@@ -2,6 +2,8 @@
 
 <div align="center">
 
+[![Live Demo](https://img.shields.io/badge/Live_App-mailpractice.vercel.app-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://mailpractice.vercel.app/)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://reactjs.org/)
@@ -13,7 +15,7 @@
 
 *A modern, interactive AI-powered email writing coach designed to help students, developers, and professionals build genuine workplace communication fluency through deliberate practice.*
 
-[Live Demo](http://localhost:5173/) • [Key Features](#-key-features) • [Curriculum Roadmap](#-the-5-tier-progressive-learning-path) • [Architecture](#-architecture--design-philosophy) • [Quick Start](#-quick-start)
+**[🚀 Launch Live Web App (mailpractice.vercel.app)](https://mailpractice.vercel.app/)** • [Key Features](#-key-features) • [Curriculum Roadmap](#-the-5-tier-progressive-learning-path) • [Architecture](#-architecture--dual-key-groq-failover) • [Quick Start](#-quick-start)
 
 </div>
 
