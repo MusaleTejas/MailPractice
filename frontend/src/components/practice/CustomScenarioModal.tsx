@@ -29,7 +29,8 @@ export const CustomScenarioModal: React.FC<CustomScenarioModalProps> = ({
     setError(null);
 
     try {
-      const res = await fetch('/api/scenarios/generate', {
+      const apiBase = import.meta.env.VITE_API_URL || '';
+      const res = await fetch(`${apiBase}/api/scenarios/generate`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ topic, category, difficulty }),

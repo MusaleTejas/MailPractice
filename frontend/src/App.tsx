@@ -93,7 +93,8 @@ export function App() {
     let evaluationResult: EvaluationResult;
 
     try {
-      const response = await fetch('/api/evaluate', {
+      const apiBase = import.meta.env.VITE_API_URL || '';
+      const response = await fetch(`${apiBase}/api/evaluate`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
