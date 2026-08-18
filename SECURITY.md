@@ -12,7 +12,7 @@
 The MailPractice team takes the security and privacy of our users seriously. If you discover a security vulnerability, please do **NOT** open a public GitHub issue.
 
 Instead, please report security vulnerabilities directly to:
-* **Email**: musale.tejas@gmail.com
+* **Email**: tejasmusale830@gmail.com
 * **GitHub**: [@MusaleTejas](https://github.com/MusaleTejas) (via private security advisory or direct message)
 
 ### What to Include in Your Report
