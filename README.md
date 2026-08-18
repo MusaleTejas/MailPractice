@@ -5,6 +5,8 @@
 [![Live Demo](https://img.shields.io/badge/🚀_Try_It_Live-mailpractice.vercel.app-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://mailpractice.vercel.app/)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
@@ -199,6 +201,18 @@ Data Science Engineer · AI & ML Practitioner
 > If this helps even one person send a better email tomorrow, it was worth building.
 >
 > — *Tejas*
+
+---
+
+## 🤝 Contributing & Community
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+* Read our **[Contributing Guide](CONTRIBUTING.md)** to get started with local setup, branch conventions, and PR guidelines.
+* Check out our **[Code of Conduct](CODE_OF_CONDUCT.md)** for community standards.
+* Report vulnerabilities privately via **[Security Policy](SECURITY.md)**.
+
+Got an idea for a new workplace email scenario? [Open a Scenario Proposal](https://github.com/MusaleTejas/MailPractice/issues/new?template=scenario_proposal.md)!
 
 ---
 
